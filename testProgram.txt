@@ -1,0 +1,144 @@
+Example to run the program - 
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: ==
+1 apple 1.5
+Product added to catalog successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+1 banana 2.5
+Product added to catalog successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: ==
+1 orange 3
+Product added to catalog successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+1 apple 2
+Product added to account successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: ==
+1 banana 3
+Product added to account successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: ==
+5
+Total: 11.5
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+6 0.5
+Discount set successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: ==
+5
+Total: 5.75
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+2 apple 5
+Product quantity updated successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+3 banana 2.7
+Product price updated successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+4 orange
+Product removed successfully!
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+5
+Total: 14.65
+Enter a command
+==add Product: 1==
+==update Quantity: 2==
+==update Price: 3==
+==remove Product: 4==
+==calculate Total: 5==
+==set Discount: 6==
+==show Product: 7==
+==Enter exit to exit: == 
+7
+All products: {apple=1.5, banana=2.7, orange=3.0}

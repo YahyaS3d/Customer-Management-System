@@ -1,4 +1,4 @@
-OOD EX5 - Customer Manager System for supermarkets 
+OOD EX5 - Customer Management System for supermarkets 
 CREATED BY: Yahya Saad 
 ==Description==
 The program show a system to manage every customer in a supermarket, with a full options of adding/deleting/ modifying a specific product 
